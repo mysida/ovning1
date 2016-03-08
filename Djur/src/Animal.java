@@ -1,3 +1,4 @@
+
 public class Animal {
 protected String namn;
 public Animal(String namn){
